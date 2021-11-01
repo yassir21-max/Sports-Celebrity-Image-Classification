@@ -16,3 +16,4 @@ Les technologies utilisées dans ce projet sont:
 - Bloc-notes Jupyter, code de studio visuel et pycharm en tant qu'IDE Flacon
 Python pour serveur http
 - HTML/CSS/Javascript pour l'interface utilisat
+![ui_snapshot](https://user-images.githubusercontent.com/83836471/139723714-0901f2aa-d1f4-4ba5-86b6-ed70587b7e1c.jpg)
